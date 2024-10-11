@@ -1,2 +1,2 @@
 # repositories danu 
- my 1st assigment
+ Tech-Academy-Projects
